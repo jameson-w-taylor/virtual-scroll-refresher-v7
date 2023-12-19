@@ -1,0 +1,7 @@
+{
+  "name": "virtual-scroll-refresher-v7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
